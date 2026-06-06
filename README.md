@@ -111,7 +111,7 @@ To import an application:
 1. Open LiveContainer.
 2. Tap the **+** button.
 3. Select the IPA file you want to import.
-Download My custom IPA here: https://limewire.com/d/rtzpD#pMO4NSNBxz
+Download My custom IPA here: https://drive.google.com/file/d/1WnLX0R4qzU3sFouZe1yVXg4JqQv9s7xQ/view?usp=sharing
 
 
 5. Wait for the import to finish.
